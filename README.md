@@ -8,7 +8,8 @@ This research has been conducted to detect one of the most common forms of breas
 
 **Environment:** We have run our code and analysis within kaggle environment. We have used GPU P100 as accelerator.
 
-**List of Dependencies: **
+**List of Dependencies:**
+
 
 numpy
 
