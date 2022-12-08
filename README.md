@@ -1,10 +1,14 @@
 # Breast-Cancer-Detection-ML-Project
 
 This research has been conducted to detect one of the most common forms of breast cancer, Invasive Ductal Carcinoma (IDC).
-Source of the dataset was kaggle (https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images).
-We have run our code and analysis within kaggle environment. We have used GPU P100 as accelerator.
 
-Here are list of dependencies that have been used:
+
+**Dataset Link:** Source of the dataset was kaggle (https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images).
+
+
+**Environment:** We have run our code and analysis within kaggle environment. We have used GPU P100 as accelerator.
+
+**List of Dependencies: **
 
 numpy
 
